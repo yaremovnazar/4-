@@ -48,3 +48,10 @@ main img{
     width: 239px;
 height: 212px;
 }
+header p{
+    text-align: center;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+}
