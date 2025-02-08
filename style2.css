@@ -44,14 +44,40 @@ header img{
     width: 140px;
 height: 140px;
 }
-main img{
-    width: 239px;
-height: 212px;
+.karta{
+    width:300px;
+    float: right;
+    
 }
 header p{
     text-align: center;
 }
+header a{
+    padding: 10px;
+}
 nav{
     display: flex;
     justify-content: space-around;
+}
+.atb{
+    float: left;
+}
+section{
+    height: 300px;
+    margin: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.misce{
+    height: 600px;
+    margin: 10px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+footer{
+    display: block;
+    float: bottom;
 }
